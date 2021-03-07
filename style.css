@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    font-family: Merriweather, serif;
+    
+}
+
+#Hobbies {
+
+    height: 800px;
+    color: Black;
+    background: radial-gradient(#44FFC9, #9198e5, #EF7DFF);
+
+    width: 100%;
+    height: 100%;
+    font-family: 'Dancing Script', cursive;
+    z-index:9;
+}
+
+#book {
+    width: 175px;
+    border-radius: 50%;
+}
+
+#line {
+    height: 5px;
+    background-color: #37474F;
+    width: 70px;
+    margin: 8px auto;
+    border: dashed 1px white;
+}
+
+#AboutHobbie {
+    font-size: 17px;
+    color: purple;
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    font-family: 'Coming Soon', cursive;
+}
+.menu{
+list-style: none;
+    font-family:fantasy;
+    position: absolute;
+    top: 2px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    color: black;
+}    
+    
+    
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 3px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 3px;
+    font-family: cursive;
+    font-size: 20px
+}
+.links:hover{
+    background-color: aquamarine;
+color: cadetblue;
+}
+h1{
+color: cornflowerblue;
+border-top: black 1.8px solid;
+    
+    
+    
+}
+#My Inspiration{
+background-color: azure;
+}
+
+#Author{
+width: 600px;
+height: 550px
+    border:black 2px outset;
+    
+    
+    
+    
+    
+}
